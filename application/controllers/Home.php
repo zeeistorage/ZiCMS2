@@ -13,7 +13,9 @@ class Home extends CI_Controller
     }
     public function index(){
         $data['judul'] = "ZeeiDeveloper Official ";
+        $this->load->view('Home/header', $data);
         $this->load->view('Home/index', $data);
+        $this->load->view('Home/footer', $data);
         
     }
 }
