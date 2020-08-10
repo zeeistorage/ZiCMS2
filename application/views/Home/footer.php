@@ -10,7 +10,7 @@
                                         <li>
                                             <div class="media">
                                                 <a href="post-style-1.html">
-                                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/footer/post1.jpg" alt="post" class="img-fluid">
+                                                    <img src="<?=$url?>/pemanis/img/footer/post1.jpg" alt="post" class="img-fluid">
                                                 </a>
                                                 <div class="media-body">
                                                     <h3 class="title-medium-light size-md mb-10">
@@ -30,7 +30,7 @@
                                         <li>
                                             <div class="media">
                                                 <a href="post-style-2.html">
-                                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/footer/post2.jpg" alt="post" class="img-fluid">
+                                                    <img src="<?=$url?>/pemanis/img/footer/post2.jpg" alt="post" class="img-fluid">
                                                 </a>
                                                 <div class="media-body">
                                                     <h3 class="title-medium-light size-md mb-10">
@@ -50,7 +50,7 @@
                                         <li>
                                             <div class="media">
                                                 <a href="post-style-3.html">
-                                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/footer/post3.jpg" alt="post" class="img-fluid">
+                                                    <img src="<?=$url?>/pemanis/img/footer/post3.jpg" alt="post" class="img-fluid">
                                                 </a>
                                                 <div class="media-body">
                                                     <h3 class="title-medium-light size-md mb-10">
@@ -124,63 +124,63 @@
                                         <li>
                                             <a href="gallery-style1.html">
                                                 <figure>
-                                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/footer/post4.jpg" alt="post" class="img-fluid">
+                                                    <img src="<?=$url?>/pemanis/img/footer/post4.jpg" alt="post" class="img-fluid">
                                                 </figure>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="gallery-style2.html">
                                                 <figure>
-                                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/footer/post5.jpg" alt="post" class="img-fluid">
+                                                    <img src="<?=$url?>/pemanis/img/footer/post5.jpg" alt="post" class="img-fluid">
                                                 </figure>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="gallery-style1.html">
                                                 <figure>
-                                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/footer/post6.jpg" alt="post" class="img-fluid">
+                                                    <img src="<?=$url?>/pemanis/img/footer/post6.jpg" alt="post" class="img-fluid">
                                                 </figure>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="gallery-style2.html">
                                                 <figure>
-                                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/footer/post7.jpg" alt="post" class="img-fluid">
+                                                    <img src="<?=$url?>/pemanis/img/footer/post7.jpg" alt="post" class="img-fluid">
                                                 </figure>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="gallery-style1.html">
                                                 <figure>
-                                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/footer/post8.jpg" alt="post" class="img-fluid">
+                                                    <img src="<?=$url?>/pemanis/img/footer/post8.jpg" alt="post" class="img-fluid">
                                                 </figure>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="gallery-style2.html">
                                                 <figure>
-                                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/footer/post9.jpg" alt="post" class="img-fluid">
+                                                    <img src="<?=$url?>/pemanis/img/footer/post9.jpg" alt="post" class="img-fluid">
                                                 </figure>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="gallery-style1.html">
                                                 <figure>
-                                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/footer/post10.jpg" alt="post" class="img-fluid">
+                                                    <img src="<?=$url?>/pemanis/img/footer/post10.jpg" alt="post" class="img-fluid">
                                                 </figure>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="gallery-style2.html">
                                                 <figure>
-                                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/footer/post11.jpg" alt="post" class="img-fluid">
+                                                    <img src="<?=$url?>/pemanis/img/footer/post11.jpg" alt="post" class="img-fluid">
                                                 </figure>
                                             </a>
                                         </li>
                                         <li>
                                             <a href="gallery-style1.html">
                                                 <figure>
-                                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/footer/post12.jpg" alt="post" class="img-fluid">
+                                                    <img src="<?=$url?>/pemanis/img/footer/post12.jpg" alt="post" class="img-fluid">
                                                 </figure>
                                             </a>
                                         </li>
@@ -195,7 +195,7 @@
                         <div class="row">
                             <div class="col-12 text-center">
                                 <a href="index.html" class="footer-logo img-fluid">
-                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/logo.png" alt="logo" class="img-fluid">
+                                    <img src="<?=$url?>/pemanis/img/logo.png" alt="logo" class="img-fluid">
                                 </a>
                                 <ul class="footer-social">
                                     <li>
@@ -400,33 +400,33 @@
             <!-- Offcanvas Menu End -->
         </div>
         <!-- jquery-->
-        <script src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/js/jquery-2.2.4.min.js" type="text/javascript"></script>
+        <script src="<?=$url?>/pemanis/js/jquery-2.2.4.min.js" type="text/javascript"></script>
         <!-- Plugins js -->
-        <script src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/js/plugins.js" type="text/javascript"></script>
+        <script src="<?=$url?>/pemanis/js/plugins.js" type="text/javascript"></script>
         <!-- Popper js -->
-        <script src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/js/popper.js" type="text/javascript"></script>
+        <script src="<?=$url?>/pemanis/js/popper.js" type="text/javascript"></script>
         <!-- Bootstrap js -->
-        <script src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="<?=$url?>/pemanis/js/bootstrap.min.js" type="text/javascript"></script>
         <!-- WOW JS -->
-        <script src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/js/wow.min.js"></script>
+        <script src="<?=$url?>/pemanis/js/wow.min.js"></script>
         <!-- Owl Cauosel JS -->
-        <script src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/vendor/OwlCarousel/owl.carousel.min.js" type="text/javascript"></script>
+        <script src="<?=$url?>/pemanis/vendor/OwlCarousel/owl.carousel.min.js" type="text/javascript"></script>
         <!-- Meanmenu Js -->
-        <script src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/js/jquery.meanmenu.min.js" type="text/javascript"></script>
+        <script src="<?=$url?>/pemanis/js/jquery.meanmenu.min.js" type="text/javascript"></script>
         <!-- Srollup js -->
-        <script src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/js/jquery.scrollUp.min.js" type="text/javascript"></script>
+        <script src="<?=$url?>/pemanis/js/jquery.scrollUp.min.js" type="text/javascript"></script>
         <!-- jquery.counterup js -->
-        <script src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/js/jquery.counterup.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/js/waypoints.min.js"></script>
+        <script src="<?=$url?>/pemanis/js/jquery.counterup.min.js"></script>
+        <script src="<?=$url?>/pemanis/js/waypoints.min.js"></script>
 
         <!-- Isotope js -->
-        <script src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/js/isotope.pkgd.min.js" type="text/javascript"></script>
+        <script src="<?=$url?>/pemanis/js/isotope.pkgd.min.js" type="text/javascript"></script>
         <!-- Magnific Popup -->
-        <script src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/js/jquery.magnific-popup.min.js"></script>
+        <script src="<?=$url?>/pemanis/js/jquery.magnific-popup.min.js"></script>
         <!-- Ticker Js -->
-        <script src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/js/ticker.js" type="text/javascript"></script>
+        <script src="<?=$url?>/pemanis/js/ticker.js" type="text/javascript"></script>
         <!-- Custom Js -->
-        <script src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/js/main.js" type="text/javascript"></script>
+        <script src="<?=$url?>/pemanis/js/main.js" type="text/javascript"></script>
     </body>
 
 </html>

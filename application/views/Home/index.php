@@ -31,7 +31,7 @@
                     <div class="row tab-space5">
                         <div class="col-lg-5 col-md-12 mb-10">
                             <div class="img-overlay-70 img-scale-animate">
-                                <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news200.jpg" alt="news" class="img-fluid width-100">
+                                <img src="<?=$url?>/pemanis/img/news/news200.jpg" alt="news" class="img-fluid width-100">
                                 <div class="mask-content-lg">
                                     <div class="topic-box-sm color-cinnabar mb-20">Racing</div>
                                     <div class="post-date-light">
@@ -62,7 +62,7 @@
                                                 <a href="single-news-1.html">Magnificent Image shaper area dam bridge taking</a>
                                             </h3>
                                         </div>
-                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news201.jpg" alt="news" class="img-fluid width-100">
+                                        <img src="<?=$url?>/pemanis/img/news/news201.jpg" alt="news" class="img-fluid width-100">
                                     </div>
                                 </div>
                                 <div class="col-sm-6 col-12">
@@ -73,7 +73,7 @@
                                                 <a href="single-news-2.html">Magnificent Image shaper area dam bridge taking</a>
                                             </h3>
                                         </div>
-                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news202.jpg" alt="news" class="img-fluid width-100">
+                                        <img src="<?=$url?>/pemanis/img/news/news202.jpg" alt="news" class="img-fluid width-100">
                                     </div>
                                 </div>
                                 <div class="col-sm-6 col-12">
@@ -84,7 +84,7 @@
                                                 <a href="single-news-3.html">Magnificent Image shaper area dam bridge taking</a>
                                             </h3>
                                         </div>
-                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news203.jpg" alt="news" class="img-fluid width-100">
+                                        <img src="<?=$url?>/pemanis/img/news/news203.jpg" alt="news" class="img-fluid width-100">
                                     </div>
                                 </div>
                                 <div class="col-sm-6 col-12">
@@ -95,7 +95,7 @@
                                                 <a href="single-news-1.html">Magnificent Image shaper area dam bridge taking</a>
                                             </h3>
                                         </div>
-                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news204.jpg" alt="news" class="img-fluid width-100">
+                                        <img src="<?=$url?>/pemanis/img/news/news204.jpg" alt="news" class="img-fluid width-100">
                                     </div>
                                 </div>
                             </div>
@@ -130,7 +130,7 @@
                             <div class="row action">
                                 <div class="col-xl-4 col-lg-7 col-md-12 mb-30">
                                     <div class="img-overlay-70 img-scale-animate">
-                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news205.jpg" alt="news" class="img-fluid width-100">
+                                        <img src="<?=$url?>/pemanis/img/news/news205.jpg" alt="news" class="img-fluid width-100">
                                         <div class="topic-box-top-sm">
                                             <div class="topic-box-sm color-cinnabar mb-20">Action</div>
                                         </div>
@@ -159,7 +159,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news206.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news206.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -182,7 +182,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news207.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news207.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -205,7 +205,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news208.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news208.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -228,7 +228,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news209.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news209.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -251,7 +251,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news210.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news210.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -274,7 +274,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news211.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news211.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -299,7 +299,7 @@
                             <div class="row racing">
                                 <div class="col-xl-4 col-lg-7 col-md-12 mb-30">
                                     <div class="img-overlay-70 img-scale-animate">
-                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news212.jpg" alt="news" class="img-fluid width-100">
+                                        <img src="<?=$url?>/pemanis/img/news/news212.jpg" alt="news" class="img-fluid width-100">
                                         <div class="topic-box-top-sm">
                                             <div class="topic-box-sm color-cinnabar mb-20">Racing</div>
                                         </div>
@@ -328,7 +328,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news206.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news206.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -351,7 +351,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news207.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news207.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -374,7 +374,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news208.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news208.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -397,7 +397,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news209.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news209.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -420,7 +420,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news210.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news210.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -443,7 +443,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news211.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news211.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -468,7 +468,7 @@
                             <div class="row boxing">
                                 <div class="col-xl-4 col-lg-7 col-md-12 mb-30">
                                     <div class="img-overlay-70 img-scale-animate">
-                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news213.jpg" alt="news" class="img-fluid width-100">
+                                        <img src="<?=$url?>/pemanis/img/news/news213.jpg" alt="news" class="img-fluid width-100">
                                         <div class="topic-box-top-sm">
                                             <div class="topic-box-sm color-cinnabar mb-20">Boxing</div>
                                         </div>
@@ -497,7 +497,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news206.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news206.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -520,7 +520,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news207.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news207.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -543,7 +543,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news208.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news208.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -566,7 +566,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news209.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news209.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -589,7 +589,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news210.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news210.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -612,7 +612,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news211.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news211.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -637,7 +637,7 @@
                             <div class="row animation">
                                 <div class="col-xl-4 col-lg-7 col-md-12 mb-30">
                                     <div class="img-overlay-70 img-scale-animate">
-                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news214.jpg" alt="news" class="img-fluid width-100">
+                                        <img src="<?=$url?>/pemanis/img/news/news214.jpg" alt="news" class="img-fluid width-100">
                                         <div class="topic-box-top-sm">
                                             <div class="topic-box-sm color-cinnabar mb-20">Animation</div>
                                         </div>
@@ -666,7 +666,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news206.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news206.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -689,7 +689,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news207.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news207.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -712,7 +712,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news208.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news208.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -735,7 +735,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news209.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news209.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -758,7 +758,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news210.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news210.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -781,7 +781,7 @@
                                             <div class="position-relative mb-30">
                                                 <div class="img-scale-animate mb-15 img-overlay-70">
                                                     <a href="single-news-1.html">
-                                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news211.jpg" alt="news" class="img-fluid width-100">
+                                                        <img src="<?=$url?>/pemanis/img/news/news211.jpg" alt="news" class="img-fluid width-100">
                                                     </a>
                                                 </div>
                                                 <div class="topic-box-top-xs">
@@ -822,7 +822,7 @@
                                         <div class="games-review-box">
                                             <div class="img-overlay-70 img-scale-animate mb-30">
                                                 <a href="single-news-1.html">
-                                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news224.jpg" alt="news" class="img-fluid width-100">
+                                                    <img src="<?=$url?>/pemanis/img/news/news224.jpg" alt="news" class="img-fluid width-100">
                                                 </a>
                                                 <div class="topic-box-top-xs">
                                                     <div class="topic-box-sm color-cinnabar">Animation</div>
@@ -851,7 +851,7 @@
                                         <div class="games-review-box">
                                             <div class="img-overlay-70 img-scale-animate mb-30">
                                                 <a href="single-news-1.html">
-                                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news225.jpg" alt="news" class="img-fluid width-100">
+                                                    <img src="<?=$url?>/pemanis/img/news/news225.jpg" alt="news" class="img-fluid width-100">
                                                 </a>
                                                 <div class="topic-box-top-xs">
                                                     <div class="topic-box-sm color-cinnabar">Animation</div>
@@ -880,7 +880,7 @@
                                         <div class="games-review-box">
                                             <div class="img-overlay-70 img-scale-animate mb-30">
                                                 <a href="single-news-1.html">
-                                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news226.jpg" alt="news" class="img-fluid width-100">
+                                                    <img src="<?=$url?>/pemanis/img/news/news226.jpg" alt="news" class="img-fluid width-100">
                                                 </a>
                                                 <div class="topic-box-top-xs">
                                                     <div class="topic-box-sm color-cinnabar">Animation</div>
@@ -909,7 +909,7 @@
                                         <div class="games-review-box">
                                             <div class="img-overlay-70 img-scale-animate mb-30">
                                                 <a href="single-news-1.html">
-                                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news227.jpg" alt="news" class="img-fluid width-100">
+                                                    <img src="<?=$url?>/pemanis/img/news/news227.jpg" alt="news" class="img-fluid width-100">
                                                 </a>
                                                 <div class="topic-box-top-xs">
                                                     <div class="topic-box-sm color-cinnabar">Animation</div>
@@ -976,7 +976,7 @@
                             <div class="sidebar-box item-box-dark-md">
                                 <div class="media mb30-list bg-secondary-body">
                                     <a class="img-opacity-hover" href="single-news-1.html">
-                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news219.jpg" alt="news" class="img-fluid">
+                                        <img src="<?=$url?>/pemanis/img/news/news219.jpg" alt="news" class="img-fluid">
                                     </a>
                                     <div class="media-body media-padding10">
                                         <div class="topic-box-sm color-white mb-15">Animation</div>
@@ -987,7 +987,7 @@
                                 </div>
                                 <div class="media mb30-list bg-secondary-body">
                                     <a class="img-opacity-hover" href="single-news-1.html">
-                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news220.jpg" alt="news" class="img-fluid">
+                                        <img src="<?=$url?>/pemanis/img/news/news220.jpg" alt="news" class="img-fluid">
                                     </a>
                                     <div class="media-body media-padding10">
                                         <div class="topic-box-sm color-white mb-15">Animation</div>
@@ -998,7 +998,7 @@
                                 </div>
                                 <div class="media mb30-list bg-secondary-body">
                                     <a class="img-opacity-hover" href="single-news-1.html">
-                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news221.jpg" alt="news" class="img-fluid">
+                                        <img src="<?=$url?>/pemanis/img/news/news221.jpg" alt="news" class="img-fluid">
                                     </a>
                                     <div class="media-body media-padding10">
                                         <div class="topic-box-sm color-white mb-15">Animation</div>
@@ -1009,7 +1009,7 @@
                                 </div>
                                 <div class="media mb30-list bg-secondary-body">
                                     <a class="img-opacity-hover" href="single-news-1.html">
-                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news222.jpg" alt="news" class="img-fluid">
+                                        <img src="<?=$url?>/pemanis/img/news/news222.jpg" alt="news" class="img-fluid">
                                     </a>
                                     <div class="media-body media-padding10">
                                         <div class="topic-box-sm color-white mb-15">Animation</div>
@@ -1020,7 +1020,7 @@
                                 </div>
                                 <div class="media mb30-list bg-secondary-body">
                                     <a class="img-opacity-hover" href="single-news-1.html">
-                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news223.jpg" alt="news" class="img-fluid">
+                                        <img src="<?=$url?>/pemanis/img/news/news223.jpg" alt="news" class="img-fluid">
                                     </a>
                                     <div class="media-body media-padding10">
                                         <div class="topic-box-sm color-white mb-15">Animation</div>
@@ -1046,10 +1046,10 @@
                             <div class="img-overlay-90">
                                 <div class="text-center">
                                     <a class="play-btn popup-youtube" href="http://www.youtube.com/watch?v=1iIZeIy7TqM">
-                                        <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/banner/play.png" alt="play" class="img-fluid">
+                                        <img src="<?=$url?>/pemanis/img/banner/play.png" alt="play" class="img-fluid">
                                     </a>
                                 </div>
-                                <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news215.jpg" alt="news" class="img-fluid width-100">
+                                <img src="<?=$url?>/pemanis/img/news/news215.jpg" alt="news" class="img-fluid width-100">
                                 <div class="mask-content-lg">
                                     <div class="topic-box-sm color-white mb-20">Technology</div>
                                     <div class="post-date-light">
@@ -1073,7 +1073,7 @@
                         <div class="col-lg-5 col-md-12">
                             <div class="media mb-30 bg-primarytextcolor on-hover-bg-gray">
                                 <a class="img-opacity-hover width25-lg" href="single-news-1.html">
-                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news216.jpg" alt="news" class="img-fluid">
+                                    <img src="<?=$url?>/pemanis/img/news/news216.jpg" alt="news" class="img-fluid">
                                 </a>
                                 <div class="media-body media-padding8">
                                     <div class="topic-box-sm color-white mb-20">Animation</div>
@@ -1084,7 +1084,7 @@
                             </div>
                             <div class="media mb-30 bg-primarytextcolor on-hover-bg-gray">
                                 <a class="img-opacity-hover width25-lg" href="single-news-1.html">
-                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news217.jpg" alt="news" class="img-fluid">
+                                    <img src="<?=$url?>/pemanis/img/news/news217.jpg" alt="news" class="img-fluid">
                                 </a>
                                 <div class="media-body media-padding8">
                                     <div class="topic-box-sm color-white mb-20">Action</div>
@@ -1095,7 +1095,7 @@
                             </div>
                             <div class="media mb-30 bg-primarytextcolor on-hover-bg-gray">
                                 <a class="img-opacity-hover width25-lg" href="single-news-1.html">
-                                    <img src="https://cdn.jsdelivr.net/gh/zeeistorage/ZiCMS2/pemanis/img/news/news218.jpg" alt="news" class="img-fluid">
+                                    <img src="<?=$url?>/pemanis/img/news/news218.jpg" alt="news" class="img-fluid">
                                 </a>
                                 <div class="media-body media-padding8">
                                     <div class="topic-box-sm color-white mb-20">Racing</div>
